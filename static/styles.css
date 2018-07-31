@@ -1,0 +1,10 @@
+body {
+    background: #5dc5d4a6;
+    color: brown;
+    padding: 20px;
+    font-family:  monospace;
+    display:  flex;
+    justify-content: center;
+    align-content:  space-around;
+    height:  100vh;
+}
